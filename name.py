@@ -1,0 +1,6 @@
+name = input()
+branch = input()
+college = input()
+gender = input()
+age = input()
+print (name,branch,college,gender,age)
